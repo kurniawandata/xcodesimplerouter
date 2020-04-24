@@ -1,6 +1,6 @@
 # xcodesimplerouter
 
-X-code Simple Router v1.0 for Ubuntu 20.04.4 LTS - Full Version
+X-code Simple Router v1.0 for Ubuntu 20.04 LTS - Full Version
 ------------------------------------------
 
 Released 24/04/2020
