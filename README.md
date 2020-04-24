@@ -10,12 +10,12 @@ Released 24/04/2020
 
 Aplikasi untuk membangun NAT, DHCP Server, port forwarding dan VPN Server secara cepat. 
 
-Versi untuk Ubuntu 20.04.4 LTS ini tidak sepenuhnya support Ubuntu 16.04. Untuk Ubuntu 16.04 klik di https://github.com/kurniawandata/xcodepandawastandardstable
+Versi untuk Ubuntu 20.04 LTS ini tidak sepenuhnya support Ubuntu 16.04. Untuk Ubuntu 16.04 klik di https://github.com/kurniawandata/xcodepandawastandardstable
 
 Cara menggunakan :
 ------------------
 
-- Pastikan di CPU anda sudah terinstall Ubuntu Server 20.04.4 dengan 2 LAN Card.
+- Pastikan di CPU anda sudah terinstall Ubuntu Server 20.04 dengan 2 LAN Card.
 
 - Jika belum diinstall bisa download ISO-nya yang terbaru di https://releases.ubuntu.com/20.04/ubuntu-20.04-live-server-amd64.iso
 
